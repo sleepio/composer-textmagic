@@ -4,6 +4,6 @@
 	"type": "library",
 	"homepage": "https://sleepio@bitbucket.org/sleepio/composer-textmagic.git",
 	"autoload": {
-		"files": ["TextMagicAPI.php"]
+		"classmap": ["TextMagicAPI.php"]
 	}
 }
