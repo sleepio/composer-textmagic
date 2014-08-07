@@ -2,7 +2,7 @@
 	"name": "sleepio/textmagic",
 	"description": "Sleepio textmagic php sdk mirror",
 	"type": "library",
-	"homepage": "https://sleepio@bitbucket.org/sleepio/composer-textmagic.git",
+	"homepage": "https://git@github.com:sleepio/composer-textmagic.git",
 	"autoload": {
 		"classmap": ["TextMagicAPI.php"]
 	}
