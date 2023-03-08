@@ -1,0 +1,8 @@
+# Assign package management files to appropriate teams 
+requirements.txt @bpaluzzi
+requirements-*.txt @bpaluzzi
+Dockerfile @bpaluzzi
+package.json @bpaluzzi
+package-lock.json @bpaluzzi
+yarn.lock @bpaluzzi
+composer.json @bpaluzzi
